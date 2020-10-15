@@ -32,4 +32,3 @@ Thank you deploying a crunchy postgreSQL cluster v{{ .Chart.AppVersion }}!
 
 More information on using the custom resource workflow can be found in the docs:
 https://access.crunchydata.com/documentation/postgres-operator/latest/custom-resources/
-
